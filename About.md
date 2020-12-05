@@ -4,13 +4,20 @@ date: 2020-12-03 12:17 -0400
 categories: About us update
 ---
 
+<head>
+
 <link rel="stylesheet" href="category.css" />
+<link rel="stylesheet" href="sideBar.css" />
+</head>
+
+<body>
 
 <div class= "unChosen">
-    <h2><a href="member.md">Member</a></h2>
+    <h2><a href="members.md">Members</a></h2>
     <h2><a href="history.md">History</a></h2>
 </div>
 
+# About 
 <h2> 도로를 달리는 로봇을 꿈꾸다 </h2>
 
 
@@ -33,3 +40,17 @@ Road Balance는 캠퍼스 내에서 반자율주행 로봇이 문서/물류를 �
 Road Balance도 흐름에 맞춰 이 아이템의 MVP 제작 이후, 모교 내 서비스를 통한 하드웨어/소프트웨어 최적화를 통해 실 서비스가 가능한 형태로 완성도를 끌어올린 뒤, 타대 캠퍼스, 기업 부지 등으로 서비스 영역을 확장시켜나갈 계획이며, 캠퍼스의 형태를 가진 지역은 어디든지 주행할 수 있다는 장점을 살려 해외로 나아갈 것입니다. 
 
 
+
+
+<div class="sidenav">
+    <a href= "About.md">About</a>
+    <a href="Project.md">Project</a>
+    <a href="News.md">News</a>
+
+    
+</div>
+
+
+
+
+</body>

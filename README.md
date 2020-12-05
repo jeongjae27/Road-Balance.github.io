@@ -1,8 +1,10 @@
 
+<body>
+
 <h1> About </h1>
 
-```markdown {}
-> **Road Balance** 팀은 로봇의 하드웨어와 이를 제어하는 소스코드까지 제공할겁니다
+```markdown 
+> **Road Balance** 팀은 로봇의 하드웨어와 이를 제어하는 소스코드까지 제공합니다
 
 ```
 <br><a href="About.md" class="more">[더보기..]</a>
@@ -36,4 +38,6 @@
   <a href="News.md">News</a>
 </div>
 
-<script src= "sideBar.js"></script>
+<link rel="stylesheet" href="sideBar.css" />
+
+</body>
